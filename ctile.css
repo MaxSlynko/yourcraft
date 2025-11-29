@@ -1,0 +1,340 @@
+body{
+background: linear-gradient(to bottom,#5B45E6,#7C1DE6,#1239E6,#A061E8);
+color: #fff;
+text-align: center;
+flex-wrap: wrap;
+}
+
+.dream, .etokto, .shot {
+    width: 250px;
+    height: auto;
+}
+
+.music{
+text-shadow: 3px 3px 3px gray;
+border: 2px solid black;
+border-radius: 100px;
+background-color: #7C1DE6;
+}
+
+
+a {
+text-decoration: none;
+color: white;
+background-color: grey;
+border-radius: 6px;
+width: 15px;
+height: 15px;
+margin: 30px;
+border: 2px solid black;
+}
+
+header{
+background-color: blue;
+text-align: center;
+background-image: linear-gradient(to right,blue,blueviolet,red);
+max-width: 100%;
+flex-wrap: wrap;
+border: 2px solid black;
+border-radius: 30px;
+}
+
+
+.header{
+background-color: grey;
+text-align: center;
+text-shadow: 3px 3px 3px black;
+background-image: linear-gradient(to right,red,blueviolet,blue);
+border: 2px solid black;
+border-radius: 15px;
+}
+
+
+
+header a {
+background-image: linear-gradient(to right,red,blue,blueviolet);
+}
+
+
+.spead{
+color: white;
+margin-bottom: 100px;
+text-align: center;
+margin-top: 150px;
+text-shadow: 3px 3px 3px gray;
+border: 2px solid black;
+border-radius: 60px;
+background-color: #7C1DE6;
+}
+
+
+
+main{
+max-width: 1200px;
+margin: auto;
+}
+
+
+.dream{
+border: 2px solid black;
+opacity: 0.1;
+}
+
+
+.etokto{
+border: 2px solid black;
+width: 250px;
+height: 200px;
+opacity: 0.1;   
+}
+
+.shot{
+
+opacity: 0.1;
+}
+
+nav a{
+padding: 10px 25px;
+border-radius: 10px;
+background-image: linear-gradient(to right,red,blue,blueviolet);
+}
+
+
+
+
+
+
+.shot:hover{
+opacity: 1;
+margin: 30px;
+}
+
+
+.dream:hover{
+opacity: 1;
+margin: 30px;
+}
+
+
+.etokto:hover{
+opacity: 1;
+margin: 30px;
+}
+
+
+
+
+.video1{
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+
+.video2{
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+
+.video3{
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+.video4{
+margin-top: 15px;
+margin-bottom: 30px;
+}
+
+.video5{
+margin-top: 30px;
+margin-bottom: 15px;
+}
+
+.you{
+text-shadow: 3px 3px 3px gray;
+border: 2px solid black;
+border-radius: 100px;
+background-color: #7C1DE6;
+}
+
+.video6{
+margin-top: 15px;
+margin-bottom: 15px;
+}
+
+
+.spedraning{
+font-size: 40px;
+color: white;
+text-shadow: 3px 3px 3px gray;
+border: 2px solid black;
+border-radius: 100px;
+background-color: #7C1DE6;
+}
+
+
+
+.footering{
+font-size: 30px;
+text-align: center;
+border: 2px solid black;
+border-radius: 100px;
+background-color: #7C1DE6;
+}
+
+
+
+.text{
+text-align: center;
+font-size: 30px;
+border: 2px solid black;
+border-radius: 85px;
+background-color: #7C1DE6;
+}
+
+.sator{
+text-shadow: 3px 3px 3px gray;
+}
+
+
+
+footer{
+background-color: black;
+text-align: center;
+background-image: linear-gradient(to bottom,#995BE5,#B56EEB,#63A6E0);
+}
+
+
+
+
+.text1{
+margin-top: 60px;
+}
+
+
+
+a:hover {
+    background-color: darkgray;
+}
+
+
+
+
+aside{
+position: fixed;
+left: 90%;
+top:200px;
+background-color: navy;
+border: 2px solid blueviolet;
+border-radius: 7%;
+transition: transform 0.2s;
+background-image: linear-gradient(to bottom,red,blue,blueviolet);
+}
+
+
+
+.aside-text {
+ color: white;
+ display: flex;
+ text-align: left;
+ font-size: 15px;
+}
+
+
+
+.social{
+padding: 4px;
+
+}
+
+
+.dreamfein{
+border: 2px solid black;
+border-radius: 60px;
+background-color: #7C1DE6;
+}
+
+iframe{
+border-left:   5px solid black;
+border-right: 5px solid black;
+transition: transform 0.2s;
+max-width: 100%
+}
+
+
+
+
+iframe:hover{
+transform: scale(1.2);
+}
+
+
+aside:hover{
+transform: scale(1.5);
+
+}
+
+
+
+main img{
+transition: transform 0.2s;
+
+}
+
+main img:hover{
+transform: scale(1.2);
+}
+
+main h1{
+transition: transform 0.2s;
+}
+
+main h1:hover{
+transform: scale(1.2);
+}
+
+
+
+footer img{
+transition: transform 0.2s;
+}
+
+
+
+main p{
+font-size: 25px;
+}
+
+
+.logo{
+float: left;
+border-radius: 30px;
+border: 4px solid black;
+}
+
+
+
+.p{
+border: 3px solid black;
+border-radius: 30px;
+margin-top: 35px;
+}
+
+
+
+
+.sator{
+border: 2px solid black;
+border-radius: 100px;
+background-color: #7C1DE6;
+}
+
+
+
+
+
+nav a:hover{
+background-image: linear-gradient(to right,blueviolet,red,blue);
+
+}
